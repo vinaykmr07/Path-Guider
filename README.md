@@ -204,9 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Email: info@careerguide.com
-- Phone: +91 98765 43210
-- Address: 123 Career Street, Education City, India
+- Phone: +91 6200798565
+- Address: Semmencheri, Chennai, Tamil Nadu
 
 ## 🙏 Acknowledgments
 
@@ -216,5 +215,6 @@ For support and questions:
 - Express.js community for the framework
 
 ---
+
 
 **Made with ❤️ for students seeking career guidance** 
